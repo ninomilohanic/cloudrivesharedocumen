@@ -371,7 +371,7 @@ body {
 }
 
 .sidebar-footer-image {
-    width: 100%;
+    width: 65%;
     border-radius: 6px;
     box-shadow: 0 4px 10px #c8c8c8(0, 0, 0, 0.2);
 }
